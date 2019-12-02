@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS notes;
+USE notes;
+CREATE TABLE mynotes(name TEXT,note MEDIUMTEXT);
